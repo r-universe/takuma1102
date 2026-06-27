@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/takuma1102/takuma1102.r-universe.dev
 	branch = HEAD
+[submodule "cfcompare"]
+	path = cfcompare
+	url = https://github.com/takuma1102/cfcompare
 [submodule "nonabsdid"]
 	path = nonabsdid
 	url = https://github.com/takuma1102/nonabsdid
