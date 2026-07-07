@@ -8,3 +8,6 @@
 [submodule "nonabsdid"]
 	path = nonabsdid
 	url = https://github.com/takuma1102/nonabsdid
+[submodule "ssBartik"]
+	path = ssBartik
+	url = https://github.com/takuma1102/ssBartik
